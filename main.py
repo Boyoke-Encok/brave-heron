@@ -9,8 +9,9 @@ import os
 
 TEXT = (
     "At the edge of the silt, a heron stands on one grey leg while the river "
-    "does its slow work under the reeds. The bird waits until the water clears, "
-    "then lifts its foot and sets it down again, a little farther in. "
+    "does its slow work under the reeds. The bird waits until the water clears "
+    "and the minnows come back, then lifts its foot and sets it down again, "
+    "a little farther in. "
     "The river keeps going. So does the heron."
 )
 
